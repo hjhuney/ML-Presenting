@@ -23,28 +23,28 @@
     // your ML output and the D3 Template.
     // Remember data orientation, matrix shape, challenges, etc?
     // console.log is crucial.
-    var trace1 = {
-      x: [1, 2, 3, 4],
-      y: [10, 15, 13, 17],
+    var trace0 = {
+      x: [0.92856462, 1.94539677, 0.99756869, 1.31619577],
+      y: [8.12142991, 15.34381235, 10.47206746, 25.57987969],
       mode: 'markers',
       type: 'scatter'
     };
 
-    var trace2 = {
-      x: [2, 3, 4, 5],
-      y: [16, 5, 11, 9],
+    var trace1 = {
+      x: [-5.05045834, -0.42648231, -0.85394453, 3.01885035],
+      y: [6.60747099, 3.27017923, 5.29911288, 4.90037295],
       mode: 'lines',
       type: 'scatter'
     };
 
-    var trace3 = {
-      x: [1, 2, 3, 4],
-      y: [12, 9, 15, 12],
+    var trace2 = {
+      x: [-3.39215112, -0.49927365, -3.27535284, -3.86280596],
+      y: [3.76286202, -0.34104423, -0.56915362, 10.2125288],
       mode: 'lines+markers',
       type: 'scatter'
     };
 
-    var data = [trace1, trace2, trace3];
+    var data = [trace0, trace1, trace2];
     // timeout required so that page will have rendered before newPlot
     // is called.
     setTimeout( function(){Plotly.newPlot('plotlyPlot', data)}, 200);
@@ -70,28 +70,28 @@
         // your ML output and the D3 Template.
         // Remember data orientation, matrix shape, challenges, etc?
         // console.log is crucial.
-        var trace1 = {
-          x: [1, 2, 3, 4],
-          y: [10, 15, 13, 17],
+        var trace0 = {
+          x: [0.92856462, 1.94539677, 0.99756869, 1.31619577],
+          y: [8.12142991, 15.34381235, 10.47206746, 25.57987969],
           mode: 'markers',
           type: 'scatter'
         };
-
-        var trace2 = {
-          x: [2, 3, 4, 5],
-          y: [16, 5, 11, 9],
+    
+        var trace1 = {
+          x: [-5.05045834, -0.42648231, -0.85394453, 3.01885035],
+          y: [6.60747099, 3.27017923, 5.29911288, 4.90037295],
           mode: 'lines',
           type: 'scatter'
         };
-
-        var trace3 = {
-          x: [1, 2, 3, 4],
-          y: [12, 9, 15, 12],
+    
+        var trace2 = {
+          x: [-3.39215112, -0.49927365, -3.27535284, -3.86280596],
+          y: [3.76286202, -0.34104423, -0.56915362, 10.2125288],
           mode: 'lines+markers',
           type: 'scatter'
         };
 
-        var data = [trace1, trace2, trace3];
+        var data = [trace0, trace1, trace2];
         // timeout required so that page will have rendered before newPlot
         // is called.
         setTimeout( function(){Plotly.newPlot('plotlyPlot', data)}, 200);
