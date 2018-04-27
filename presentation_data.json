@@ -1,0 +1,24 @@
+{
+    "name": "Jake Huneycutt",
+    "netlify_subdomain": "<YOUR NETLIFY URL>",
+    "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>"
+    ,
+    "blog_post_1": {
+        "title": "Transforming Data in Python with Pandas Melt",
+        "url": "https://medium.com/@hjhuney/transforming-data-in-python-with-pandas-melt-854221daf507",
+        "keywords": ["Python","Pandas","Data Transformation"]
+    },
+    "blog_post_2": {
+        "title": "Convert LaTeX into HTML with MathJax",
+        "url": "https://medium.com/@hjhuney/how-to-convert-latex-into-html-a4334ffda3f4",
+        "keywords": ["LaTeX","HTML","JavaScript"]
+    },
+    "blog_post_3": {
+        "title": "Matrix Multiplication: R vs Python",
+        "url": "https://medium.com/@hjhuney/matrix-multiplication-r-vs-python-c33ad7ef123f",
+        "keywords": ["Python","R","Machine Learning"]
+    },
+    "my_linkedin": "https://www.linkedin.com/in/jake-huneycutt-a5389220",
+    "latex": "\\begin{displaymath}\\begin{bmatrix}9&9\\\\6&10\\\\5&7\\end{bmatrix}=\\begin{bmatrix}1 & 0 & 1 \\\\ 0 & 1 & 1 \\\\0 & 0 & 1 
+    \\end{bmatrix}\\cdot\\begin{bmatrix}4 & 2 \\\\ 1 & 3 \\\\5 & 7 \\end{bmatrix}\\end{displaymath}",
+}
