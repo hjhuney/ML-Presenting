@@ -1,7 +1,7 @@
 {
     "name": "Jake Huneycutt",
     "netlify_subdomain": "https://reverent-mcclintock-54e097.netlify.com",
-    "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>"
+    "optional_dns": "nothing up yet but jakehuneycutt dot com"
     ,
     "blog_post_1": {
         "title": "Transforming Data in Python with Pandas Melt",
@@ -19,6 +19,6 @@
         "keywords": ["Python","R","Machine Learning"]
     },
     "my_linkedin": "https://www.linkedin.com/in/jake-huneycutt-a5389220",
-    "latex": "\\begin{displaymath}\\begin{bmatrix}9&9\\\\6&10\\\\5&7\\end{bmatrix}=\\begin{bmatrix}1 & 0 & 1 \\\\ 0 & 1 & 1 \\\\0 & 0 & 1 
-    \\end{bmatrix}\\cdot\\begin{bmatrix}4&2\\\\1&3\\\\5&7\\end{bmatrix}\\end{displaymath}",
+    "latex": "\\begin{displaymath}\\begin{bmatrix} 9 & 9\\\\ 6 & 10\\\\5&7 \\end{bmatrix}=\\begin{bmatrix}1 & 0 & 1 \\\\ 0 & 1 & 1 \\\\0 & 0 & 1 
+    \\end{bmatrix}\\cdot\\begin{bmatrix}4&2\\\\1&3\\\\5&7\\end{bmatrix}\\end{displaymath}"
 }
