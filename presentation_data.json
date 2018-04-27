@@ -19,6 +19,9 @@
         "keywords": ["Python","R","Machine Learning"]
     },
     "my_linkedin": "https://www.linkedin.com/in/jake-huneycutt-a5389220",
-    "latex": "\\begin{displaymath}\\begin{bmatrix} 9 & 9\\\\ 6 & 10\\\\5&7 \\end{bmatrix}=\\begin{bmatrix}1 & 0 & 1 \\\\ 0 & 1 & 1 \\\\0 & 0 & 1 
-    \\end{bmatrix}\\cdot\\begin{bmatrix}4&2\\\\1&3\\\\5&7\\end{bmatrix}\\end{displaymath}"
+    "latex1": "\\begin{displaymath} \\begin{bmatrix} 9 & 9\\\\ 6 & 10\\\\5&7 \\end{bmatrix}=\\begin{bmatrix}1 & 0 & 1 \\\\ 0 & 1 & 1 \\\\0 & 0 & 1 
+    \\end{bmatrix}\\cdot\\begin{bmatrix}4&2\\\\1&3\\\\5&7\\end{bmatrix}\\end{displaymath}",
+    "latex2": "\begin{displaymath} \begin{bmatrix} 9 & 9\\ 6 & 10\\5&7 \\end{bmatrix}=\begin{bmatrix}1 & 0 & 1 \\ 0 & 1 & 1 \\0 & 0 & 1 
+    \\end{bmatrix}\\cdot\begin{bmatrix}4&2\\1&3\\5&7\\end{bmatrix}\\end{displaymath}",
+    "latex_url": "https://reverent-mcclintock-54e097.netlify.com/w4latex.html"
 }
