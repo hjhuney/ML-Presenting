@@ -1,5 +1,5 @@
 {
-    "url": "my-netlify-subdomain.netlify.com/machine-learning-framework.json",
+    "url": "https://medium.com/@hjhuney/implementing-a-random-forest-classification-model-in-python-583891c99652",
     "objectives": ["random forest", "cross-validation", "ROC-AUC", "hyperparameter tuning", "confusion matrix"]
     "keywords": ["machine learning", "data science", "statistics", "random forest", "python"]
 }
