@@ -1,0 +1,5 @@
+{
+    "url": "my-netlify-subdomain.netlify.com/machine-learning-framework.json",
+    "objectives": ["random forest", "cross-validation", "ROC-AUC", "hyperparameter tuning", "confusion matrix"]
+    "keywords": ["machine learning", "data science", "statistics", "random forest", "python"]
+}
